@@ -1,0 +1,18 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "(:3[▓▓] • All posts by \"大数据\" category",
+    "description": "This is a description.",
+    "home_page_url": "https://naplx123.github.io",
+    "items": [
+        {
+            "id": "https://naplx123.github.io/2023/11/02/bigData/flinkSource-kafka/",
+            "url": "https://naplx123.github.io/2023/11/02/bigData/flinkSource-kafka/",
+            "title": "flink source--skafka",
+            "date_published": "2023-11-02T15:48:21.000Z",
+            "content_html": "<hr>\n",
+            "tags": [
+                "实时"
+            ]
+        }
+    ]
+}
